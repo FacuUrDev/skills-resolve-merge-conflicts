@@ -1,1 +1,6 @@
-Resolviendo errores de merge
+
+=======
+# References
+
+* octocat 1 😈
+
